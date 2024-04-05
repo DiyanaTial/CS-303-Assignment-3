@@ -12,14 +12,14 @@ The "Queues & Lists" project implements various data structures and algorithms i
 
 ### Implemented Functionalities
 1. **Queue Data Structure**:
-   - `Provides push(), pop(), front(), size(), and empty() functions.`
-   - `Includes a function move_to_rear to move the front element to rear of the queue.`
+   - Provides push(), pop(), front(), size(), and empty() functions.
+   - Includes a function move_to_rear to move the front element to rear of the queue.
 2. **Recursive Linear Search**:
-   - `Implements a recursive linear search function to find the last occurrence of a target in a vector.`
+   - Implements a recursive linear search function to find the last occurrence of a target in a vector.
 3. **Modified Insertion Sort for Lists**:
-   - `Modifies the insertion sort algorithm to sort a list of integers`
-   - `Demonstrates sorting a list using the modified insertion sort algorithm.`
+   - Modifies the insertion sort algorithm to sort a list of integers
+   - Demonstrates sorting a list using the modified insertion sort algorithm.
      
 ### Notes
-- `This project is educational and can be modified for learning or development purposes.`
+- This project is educational and can be modified for learning or development purposes.
 
